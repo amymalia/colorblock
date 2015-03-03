@@ -1,0 +1,61 @@
+body {
+  padding-top: 50px;  /* Move body of page below navbar. */
+}
+
+.page-content {
+  padding: 10px;
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.navbar-inverse {
+  height: 71px;
+}
+
+h2{
+  text-align: center;
+}
+
+#sectionone {
+  background-image: url("https://sewmanju.files.wordpress.com/2013/08/dsc_2089.jpg");
+  height: 670px;
+  padding:0px;
+}
+
+#sectionone img {
+  padding: 100px;
+  margin-bottom: 0px;
+}
+
+#sectiontwo {
+  background-image: url("http://www.snazzyspace.com/defaultimages/f75b91_pink-lace.gif");
+  height: 630px;
+  margin-top: 0px;
+}
+
+#sectiontwo h2{
+  margin-top: 0px;
+}
+
+#sectionthree {
+  background-image: url("http://freegeneraldirectories.com/wp-content/uploads/2014/03/pink-lace-background-tumblrbackgrounds-to-tumblrblog-by-kevlarsouls-on-we-heart-it-rfb0enpb.png");
+  height: 500px;
+}
+
+#sectionthree h2{
+  margin-top: 0px;
+}
+
+#sectionfour {
+  background-image: url("http://www.sociallyyours.com/images/thumbs/0002403_1000_1.jpeg");
+  height:500px;
+}
+
+#sectionfour h2{
+  margin-top: 0px;
+}
